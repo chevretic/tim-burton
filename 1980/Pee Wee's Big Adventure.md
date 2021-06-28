@@ -3,5 +3,16 @@
 1985
 ---
 **Réalisé par :**
-**Réalisé par :**
+* Robert Shapiro
+* Richard Gilbert Abramson
+* Tim Burton
+
+**Écrit par :**
+* Phil Hartman
+* Paul Reubens
+* Michael Varhol
+
 **Acteurs :**
+* Paul Reubens
+* Diane Salinger
+* Judd Omen
