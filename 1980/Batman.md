@@ -1,7 +1,7 @@
 ![Image](https://upload.wikimedia.org/wikipedia/en/5/5a/Batman_%281989%29_theatrical_poster.jpg)
 # Batman
-1989
----
+## 1989
+
 **Réalisé par :**
 * Tim Burton
 * John Peters
