@@ -1,7 +1,7 @@
 ![Image](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/The_nightmare_before_christmas_poster.jpg/220px-The_nightmare_before_christmas_poster.jpg)
 # The Nightmare Before Christmas
-1993
----
+## 1993
+
 **Réalisé par :**
 * Tim Burton
 * Henry Selick
